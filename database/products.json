@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "product_id": "d884484c-06e5-4795-a8db-a9b5c2664c59",
+      "name": "ipohone 15promax",
+      "new_price": 26000000,
+      "old_price": 31000000,
+      "total": 18,
+      "sold": 9,
+      "description": "iphone 15promax c\u00f3 th\u1ec3 ch\u1ed1ng n\u01b0\u1edbc"
+    },
+    {
+      "name": "iphone 4",
+      "new_price": 600000,
+      "old_price": 650000,
+      "total": 100,
+      "sold": 99,
+      "description": null,
+      "product_id": "beb5b489-56ed-4473-8e42-911c40f1d599"
+    }
+  ]
+}
